@@ -6,6 +6,8 @@ This repository contains Python solutions for assignments from the Simulation an
 
 - `Lab Assignment 1/` - the current assignment folder
 - `SIM_Lab1_Md_Fahim_Hossain_0432320005101085.ipynb` - notebook with the solution for Lab Assignment 1
+ - `Lab Assignment 2/` - the second assignment folder
+ - `SIM_Lab2_Md_Fahim_Hossain_0432320005101085.ipynb` - notebook with the solution for Lab Assignment 2
 
 ## Prerequisites
 
@@ -23,7 +25,11 @@ This repository contains Python solutions for assignments from the Simulation an
 
 ## How To Run
 
-Open `Lab Assignment 1/SIM_Lab1_Md_Fahim_Hossain_0432320005101085.ipynb` in Google Colab and run the cells from top to bottom.
+- Open the notebooks in Google Colab or Jupyter and run cells from top to bottom.
+- Lab Assignment 1 notebook: [Lab Assignment 1/SIM_Lab1_Md_Fahim_Hossain_0432320005101085.ipynb](Lab Assignment 1/SIM_Lab1_Md_Fahim_Hossain_0432320005101085.ipynb)
+- Lab Assignment 2 notebook: [Lab Assignment 2/SIM_Lab2_Md_Fahim_Hossain_0432320005101085.ipynb](Lab Assignment 2/SIM_Lab2_Md_Fahim_Hossain_0432320005101085.ipynb)
+
+If running locally, ensure the prerequisites are installed (see `Prerequisites`) and launch Jupyter Notebook or JupyterLab from the repository root.
 
 ## Notes
 
