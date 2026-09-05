@@ -4,7 +4,7 @@ This repository contains Python solutions for assignments from the Simulation an
 
 ## Repository Contents
 
-- `Lab Assignment 1/` - the current assignment folder
+- `Lab Assignment 1/` - the first assignment folder
 - `SIM_Lab1_Md_Fahim_Hossain_0432320005101085.ipynb` - notebook with the solution for Lab Assignment 1
 - `Lab Assignment 2/` - the second assignment folder
 - `SIM_Lab2_Md_Fahim_Hossain_0432320005101085.ipynb` - notebook with the solution for Lab Assignment 2
